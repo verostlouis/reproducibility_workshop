@@ -1,0 +1,17 @@
+---
+title: "Activity3"
+author: "Véronique St-Louis"
+date: "July 24, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+$\alpha + \beta = 2\theta$
+
+$\pi^{2} = 9.86$
+
+$\sum^n_{i=1} \sqrt{i} =42$
