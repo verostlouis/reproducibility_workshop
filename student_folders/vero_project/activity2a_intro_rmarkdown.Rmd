@@ -1,0 +1,16 @@
+---
+title: "Activity2a"
+author: "Véronique St-Louis"
+date: "July 24, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r, echo=F}
+
+library("ezknit")
+
+ezknit("activity2a_intro_rmarkdown.Rmd",out_dir=student_folder
